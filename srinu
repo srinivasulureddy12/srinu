@@ -1,2 +1,4 @@
-# myproject
-
+#!/bin/sh
+echo "hai"
+echo "hello"
+echo "how are you"
